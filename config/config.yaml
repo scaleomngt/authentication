@@ -1,0 +1,6 @@
+PrivateKey: APrivateKey1zkpBdr5yJxrmdqSLZtTY7nKqiRhzCisMpiNzze6wQ5DmJD9
+ViewKey: AViewKey1jbq7MaiUFTLau6YovSvcojPL4XNV3sNuxHhDYVbXz4Y8
+Address: aleo10gptyclhxnyrngsenm59xtp79ja0ue480sqhru79q4cczn73zvqqhk6tp7
+ApiUrl: https://vm.aleo.org/api/testnet3/transaction/
+RedisServer: 172.18.10.46:6379
+Contract: card.aleo

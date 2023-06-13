@@ -1,0 +1,23 @@
+// The program input for card_1lta67/src/main.leo
+[submit]
+info: CardInfo = CardInfo {
+    gender: 231148183field,
+    name: 229188160229164167field,
+    age: 25u32,
+    nation: 230177137230151143field,
+    birthdate: 19980112field,
+    addr: aleo1atxsv2w6a3e96xrl8s3swp8x33un28vj9mxevztru9za4pxg6szqxp5dwa
+};
+
+[calculate_age]
+card: Card = Card {
+    owner: aleo10gptyclhxnyrngsenm59xtp79ja0ue480sqhru79q4cczn73zvqqhk6tp7,
+    gates: 0u64,
+    id: 715080884593133405690843692260641928730410335269781400562422257645045175262field,
+    name: 111001011000100010011000111010011011101010111011111001011010110110010000field,
+    gender: 111001111001010010110111field,
+    nation: 111001101011000110001001111001101001011110001111field,
+    birthdate: 19980112field,
+    age: 15u32,
+    _nonce: 4391231332740275778014426082156091378055063015293605948652565914544784362547group
+};

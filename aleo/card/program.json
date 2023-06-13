@@ -1,0 +1,10 @@
+{
+    "program": "card.aleo",
+    "version": "1.0.0",
+    "description": "",
+    "development": {
+        "private_key": "APrivateKey1zkpBdr5yJxrmdqSLZtTY7nKqiRhzCisMpiNzze6wQ5DmJD9",
+        "address": "aleo10gptyclhxnyrngsenm59xtp79ja0ue480sqhru79q4cczn73zvqqhk6tp7"
+    },
+    "license": "MIT"
+}
