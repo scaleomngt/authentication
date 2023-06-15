@@ -1,7 +1,7 @@
 # authentication
 Carry out identity authentication while ensuring user privacy. Implement strict privacy protection mechanisms to safeguard user data and prevent information leaks. Additionally, provide zero-knowledge proofs for identity information.
 # Program Description
-## Program URLs:£º
+## Program URLs:
 	* 1. https://github.com/scaleomngt/authentication/tree/main/front/identity_based_encryption --Frontend code
 	* 2. https://github.com/scaleomngt/authentication --Server code
 	* 3. https://github.com/scaleomngt/authentication/tree/main/aleo/card --Leo code
