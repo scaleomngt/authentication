@@ -32,7 +32,8 @@ snarkos developer deploy card.aleo --private-key $PRIVATE_KEY --query "https://v
 ```
 # Program Execution
 * 1. Enter the required information such as name, gender, nationality, date of birth, etc., on the webpage, and click submit.
-* 2. Once submitted, a QR code will be generated next to the form. Use a mobile device or browser to scan the QR code and view the verification results.
+* 2. Invoke the Leo verification program and receive the transaction hash.
+* 3. Generate a QR code based on the transaction hash and provide it to the third party for verification. The third party can scan the QR code using a mobile device or browser to view the verification results, without the need to expose the user's identity data.
 <img src="https://github.com/scaleomngt/authentication/blob/main/t1.png" alt="drawing" width="800"/>
 <img src="https://github.com/scaleomngt/authentication/blob/main/t3.png" alt="drawing" width="800"/>
 <img src="https://github.com/scaleomngt/authentication/blob/main/t4.png" alt="drawing" width="600"/>
