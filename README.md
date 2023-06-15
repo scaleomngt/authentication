@@ -2,9 +2,9 @@
 Carry out identity authentication while ensuring user privacy. Implement strict privacy protection mechanisms to safeguard user data and prevent information leaks. Additionally, provide zero-knowledge proofs for identity information.
 # Program Description
 ## Program URLs:£º
-	* 1.https://github.com/scaleomngt/authentication/tree/main/front/identity_based_encryption --Frontend code
-	* 2.https://github.com/scaleomngt/authentication --Server code
-	* 3.https://github.com/scaleomngt/authentication/tree/main/aleo/card --Leo code
+	* 1. https://github.com/scaleomngt/authentication/tree/main/front/identity_based_encryption --Frontend code
+	* 2. https://github.com/scaleomngt/authentication --Server code
+	* 3. https://github.com/scaleomngt/authentication/tree/main/aleo/card --Leo code
 # Installation Instructions
 ## Frontend Deployment
 (1) Step 1: Download the dependencies required for the program
@@ -33,7 +33,6 @@ snarkos developer deploy card.aleo --private-key $PRIVATE_KEY --query "https://v
 # Program Execution
 * 1. Enter the required information such as name, gender, nationality, date of birth, etc., on the webpage, and click submit.
 * 2. Once submitted, a QR code will be generated next to the form. Use a mobile device or browser to scan the QR code and view the verification results.
-<img src="https://github.com/scaleomngt/authentication/blob/main/t1.png" alt="drawing" width="500"/>
-<img src="https://github.com/scaleomngt/authentication/blob/main/t2.png" alt="drawing" width="500"/>
-<img src="https://github.com/scaleomngt/authentication/blob/main/t3.png" alt="drawing" width="500"/>
+<img src="https://github.com/scaleomngt/authentication/blob/main/t1.png" alt="drawing" width="800"/>
+<img src="https://github.com/scaleomngt/authentication/blob/main/t3.png" alt="drawing" width="800"/>
 <img src="https://github.com/scaleomngt/authentication/blob/main/t4.png" alt="drawing" width="300"/>
