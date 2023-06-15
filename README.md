@@ -32,6 +32,7 @@ snarkos developer deploy card.aleo --private-key $PRIVATE_KEY --query "https://v
 ```
 # Data flow diagram
 <img src="https://github.com/scaleomngt/authentication/blob/main/t5.png" alt="drawing" width="800"/>
+
 # Program Execution
 * 1. Enter the required information such as name, gender, nationality, date of birth, etc., on the webpage, and click submit.
 * 2. Invoke the Leo verification program and receive the transaction hash.
