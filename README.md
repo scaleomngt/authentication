@@ -35,4 +35,4 @@ snarkos developer deploy card.aleo --private-key $PRIVATE_KEY --query "https://v
 * 2. Once submitted, a QR code will be generated next to the form. Use a mobile device or browser to scan the QR code and view the verification results.
 <img src="https://github.com/scaleomngt/authentication/blob/main/t1.png" alt="drawing" width="800"/>
 <img src="https://github.com/scaleomngt/authentication/blob/main/t3.png" alt="drawing" width="800"/>
-<img src="https://github.com/scaleomngt/authentication/blob/main/t4.png" alt="drawing" width="300"/>
+<img src="https://github.com/scaleomngt/authentication/blob/main/t4.png" alt="drawing" width="600"/>
