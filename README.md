@@ -31,11 +31,9 @@ snarkos developer deploy card.aleo --private-key $PRIVATE_KEY --query "https://v
 --record <Record_that_you_just_transferred_credits_to>
 ```
 # Program Execution
-```
 (1) Enter the required information such as name, gender, nationality, date of birth, etc., on the webpage, and click submit.
-![t1.png](https://github.com/scaleomngt/authentication/blob/main/t1.png)
+<img src="https://github.com/scaleomngt/authentication/blob/main/t1.png" alt="drawing" width="500"/>
 (2) Once submitted, a QR code will be generated next to the form. Use a mobile device or browser to scan the QR code and view the verification results.
-![t2.png](https://github.com/scaleomngt/authentication/blob/main/t2.png)
-![t3.png](https://github.com/scaleomngt/authentication/blob/main/t3.png)
-![t4.png](https://github.com/scaleomngt/authentication/blob/main/t4.png)
-```
+<img src="https://github.com/scaleomngt/authentication/blob/main/t2.png" alt="drawing" width="500"/>
+<img src="https://github.com/scaleomngt/authentication/blob/main/t3.png" alt="drawing" width="500"/>
+<img src="https://github.com/scaleomngt/authentication/blob/main/t4.png" alt="drawing" width="500"/>
