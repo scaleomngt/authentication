@@ -30,7 +30,7 @@ program card.aleo {
     }
 
     transition submit(public info: CardInfo) -> Card {
-        let id: field = BHP256::hash(info.addr);
+        let id: field = BHP256::hash_to_field(info.addr);
         let result: u64 = 0u64;
         return Card {
             owner: self.caller,
